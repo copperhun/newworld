@@ -1,0 +1,9 @@
+[user]
+	name = copperhun
+	email = copperhun@gmail.com
+[safe]
+	directory = C:/Users/Gwangseok Kim/TotheSun
+	directory = Gwangseok Kim
+	directory = C:/Users/Gwangseok Kim
+[color]
+	ui = auto
